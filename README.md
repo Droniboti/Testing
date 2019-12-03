@@ -1,1 +1,1 @@
-# Testing Джигурда GBCC>Y
+# Testing Colector GBCC>Y
